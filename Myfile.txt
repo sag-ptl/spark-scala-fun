@@ -1,0 +1,4 @@
+Ticker	Quantity
+AAPL	-190	
+TSLA	50	
+GOOGL	100	
