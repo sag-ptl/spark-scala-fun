@@ -146,6 +146,6 @@ project/plugins/project/
 .bsp
 
 ### Scala ###
-Myfile.txt
-com/rockthejvm/part1basics/TestingArea.sc
+*/Myfile.txt
+*/com/rockthejvm/part1basics/TestingArea.sc
 # End of https://www.toptal.com/developers/gitignore/api/scala,sbt,intellij,java
