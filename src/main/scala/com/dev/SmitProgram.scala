@@ -8,7 +8,9 @@ object SmitProgram {
   val origData: Map[String, (String, Int)] = Map(
     "AAPL" -> ("AAPL", 10),
     "TSLA" -> ("TSLA", 50),
-    "GOOGL" -> ("GOOGL", 100)
+    "GOOGL" -> ("GOOGL", 100),
+    "MSFT" -> ("MSFT", 99)
+
   )
 
   /**
