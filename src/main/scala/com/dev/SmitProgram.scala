@@ -9,7 +9,8 @@ object SmitProgram {
     "AAPL" -> ("AAPL", 10),
     "TSLA" -> ("TSLA", 50),
     "GOOGL" -> ("GOOGL", 100),
-    "MSFT" -> ("MSFT", 99)
+    "MSFT" -> ("MSFT", 99),
+    "REMOVEME" -> ("REMOVEME", 99)
 
   )
 
